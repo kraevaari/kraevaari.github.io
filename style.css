@@ -259,9 +259,8 @@ header a:active {
 #digital .img-container,
 #fan-art .img-container {
   height: auto;
-  width: 48%;
   display: block;
-  flex: 1 1 auto;
+  flex: 1 1 400px;
 }
 
 @media only screen and (max-width: 540px) {
